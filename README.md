@@ -1,4 +1,4 @@
-# fyp
+# Retail products classification
 Final Year Project - Retail Products Classification from Store Shelf Images
 
 Store shelf images with annotations collected from Malaysia's convenience stores/ super markets.
